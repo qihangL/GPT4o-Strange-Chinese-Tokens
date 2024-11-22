@@ -1,4 +1,4 @@
-In May 2024, OpenAI introduced a new tokenizer, [o200k_base](https://openaipublic.blob.core.windows.net/encodings/o200k_base.tiktoken). This tokenizer is currently used by the main OpenAI models, including GPT-4o and o1-mini.
+In May 2024, OpenAI introduced a new tokenizer, [o200k_base](https://openaipublic.blob.core.windows.net/encodings/o200k_base.tiktoken). This tokenizer is currently used by the main OpenAI models, including GPT-4o and o1.
 
 Users have observed that the new tokenizer includes some unusual Chinese tokens that were not present in the previous version.
 
